@@ -10,7 +10,7 @@
   <br />
 
   Fullstack Web Developer <br />
-  Alumini in Rocketseat <br />
+  Alumini at Rocketseat <br />
   Passion for developing solutions that add value to the user <br />
   I like to be always improving my skills and learning about new technologies <br />
 </p>
@@ -26,6 +26,8 @@
 <br />
 
 <section>
+  <h4>Skills</h4>
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -56,6 +58,8 @@
 </section>
 
 <br />
+
+<h4>Contact</h4>
 
 <p align="left">
   <a href="#" alt="Gmail">
