@@ -20,7 +20,7 @@
 
   💼 &nbsp; Development Analyst at <a href="https://github.com/sambatech">Sambatech</a>
 
-  🌱 &nbsp; Currently studying frontend architecture
+  🌱 &nbsp; Currently studying react frontend architecture
 </p>
 
 <br />
