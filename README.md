@@ -18,7 +18,7 @@
 <p align="left"> 
   🎓 &nbsp; Information Systems Student
 
-  💼 &nbsp; Development Analyst at <a href="https://github.com/sambatech">Sambatech</a>
+  💼 &nbsp; Squad Leader at <a href="https://github.com/sambatech">Sambatech</a>
 
   🌱 &nbsp; Currently studying react frontend architecture
 </p>
