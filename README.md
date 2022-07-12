@@ -18,7 +18,7 @@
 <p align="left"> 
   🎓 &nbsp; Information Systems Student
 
-  💼 &nbsp; Squad Leader at <a href="https://github.com/sambatech">Sambatech</a>
+  💼 &nbsp; Fullstack Developer at <a href="https://www.willbank.com.br/">Will Bank</a>
 
   🌱 &nbsp; Currently studying react frontend architecture
 </p>
