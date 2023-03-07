@@ -16,11 +16,11 @@
 </p>
 
 <p align="left"> 
-  🎓 &nbsp; Information Systems Student
+  🎓 &nbsp; Graduated in Information Systems
 
-  💼 &nbsp; Fullstack Developer at <a href="https://www.willbank.com.br/">Will Bank</a>
+  💼 &nbsp; Software Engineer at <a href="https://www.willbank.com.br/">Will Bank</a>
 
-  🌱 &nbsp; Currently studying react frontend architecture
+  🌱 &nbsp; Currently studying React Native
 </p>
 
 <br />
