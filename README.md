@@ -18,9 +18,9 @@
 <p align="left"> 
   🎓 &nbsp; Graduated in Information Systems
 
-  💼 &nbsp; Software Engineer at <a href="https://www.willbank.com.br/">Will Bank</a>
+<!--   💼 &nbsp; Software Engineer at <a href="https://www.willbank.com.br/">Will Bank</a> -->
 
-  🌱 &nbsp; Currently studying React Native
+  🌱 &nbsp; Currently studying NextJs
 </p>
 
 <br />
